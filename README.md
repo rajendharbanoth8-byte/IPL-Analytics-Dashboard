@@ -122,6 +122,7 @@ The objective is to analyze **championship outcomes, player impact, and league p
 ---
 
 ## How to Run
+dashboard clone <>
 
 ### 1. Open Power BI File
 
