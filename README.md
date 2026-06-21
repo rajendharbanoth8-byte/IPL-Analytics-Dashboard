@@ -149,7 +149,7 @@ The objective is to analyze **championship outcomes, player impact, and league p
 
 ---
 ## Dashboard Image
-
+![Dashboard Screenshot](https://github.com/rajendharbanoth8-byte/IPL-Analytics-Dashboard/blob/main/Ipl%20analysis%20Image.jpg)
 ## Repository Structure
 
 ```plaintext id="ipl001"
