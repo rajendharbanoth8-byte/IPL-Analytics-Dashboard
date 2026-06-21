@@ -122,7 +122,13 @@ The objective is to analyze **championship outcomes, player impact, and league p
 ---
 
 ## How to Run
-dashboard clone <>
+
+### 1. Clone Repository
+
+```bash
+git clone <https://github.com/rajendharbanoth8-byte/IPL-Analytics-Dashboard.git>
+```
+
 
 ### 1. Open Power BI File
 
