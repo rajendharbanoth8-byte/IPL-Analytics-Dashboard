@@ -167,5 +167,5 @@ IPL-Analysis-Dashboard/
 
 ## Author
 
-**Jashwanth Varma**
+**Rajendhar Banoth**<br>
 Aspiring Data Analyst | Power BI | DAX | Sports Analytics
